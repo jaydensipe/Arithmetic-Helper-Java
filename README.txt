@@ -1,11 +1,3 @@
--Welcome to Arithmetic Helper!- created by Jayden Sipe
+This is my first ever game made in the Godot game engine! It is a simple platformer that uses physics and platforming mechanics.
 
-To use this program, run the ArithmeticHelper.jar.
-
-This will bring you to the main screen. Here you can enter your name and other information.
-
-
-*Number of Problems is how many problems you want the arithmetic helper to generate for you.
-*Number of Digits is how many digits you want the numbers inside the problem to be. 
-Ex. 1 digit = 1, 2 digits = 10, 3 digits = 100, etc.
-
+Released on: https://jaydensippy.itch.io/gunnkour
