@@ -9,4 +9,4 @@ This will bring you to the main screen. Here you can enter your name and other i
 *Number of Digits is how many digits you want the numbers inside the problem to be. 
 Ex. 1 digit = 1, 2 digits = 10, 3 digits = 100, etc.
 
-![photo](https://jaydensipe.github.io/images/ah1.jpg)
+![photo](https://jaydensipe.github.io/images/ah1.webp)
